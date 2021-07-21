@@ -1,0 +1,13 @@
+
+"""
+Code Challenge: Box Office Collection Prediction Tool
+
+Dataset: Bahubali2vsDangal.csv
+  Problem Statement:
+    It contains Data of Day wise collections of the bollywood movies 
+    Bahubali 2 and Dangal (in crores) for the first 9 days.    
+
+    Now, you have to write a python code to develop a machine learning 
+    model based on linear regressor to predict which movie would collect more money on the 10th day.
+
+"""
