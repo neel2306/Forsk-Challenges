@@ -1,0 +1,8 @@
+"""
+Code Challenge
+
+Import the local file cars.csv and split the data set equally 
+into test set and training set.
+Print it and save both data sets into two new .csv file.
+
+"""
