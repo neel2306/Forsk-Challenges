@@ -1,0 +1,11 @@
+"""
+Code Challenge
+
+In feature selection session, we wrote the feature removal code based on 
+p value as manual removal activity after every summary cycle.
+
+Automate the code where you do not need to manually check for 
+pvalue and remove the corresponding column/feature.
+
+"""
+
