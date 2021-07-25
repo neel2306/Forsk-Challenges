@@ -1,0 +1,35 @@
+ 
+
+"""
+Write a Python code that fulfills the following specification.
+dataset: Female_Stats.csv
+
+
+The Data Are From 214 Females In Statistics Classes At 
+The University Of California At Davis.
+
+Column1 = Student’s Self-Reported Height,
+
+Column2 = Student’s Guess At Her Mother’s Height, And
+
+Column 3 = Student’s Guess At Her Father’s Height. 
+
+All Heights Are In Inches.
+
+task01:
+Build A Predictive Model And Conclude If Both Predictors 
+(Independent Variables) Are Significant For A Students’ Height Or Not?
+(Use pvalue concepts).
+
+task02:
+When Father’s Height Is Held Constant, 
+The Average Student Height Increases 
+By How Many Inches For Each One-Inch Increase In Mother’s Height.
+
+task03:
+When Mother’s Height Is Held Constant, 
+The Average Student Height Increases 
+By How Many Inches For Each One-Inch Increase In Father’s Height.
+
+"""
+
