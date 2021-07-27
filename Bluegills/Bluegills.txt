@@ -1,0 +1,20 @@
+
+"""
+In 1981, 78 bluegills were randomly sampled from Lake Mary in Minnesota. 
+The researchers (Cook and Weisberg, 1999) measured and recorded the 
+following data:
+(Import bluegills.csv File)
+
+Response variable(Dependent): length (in mm) of the fish
+
+Potential Predictor (Independent Variable): age (in years) of the fish.
+
+
+How is the length of a bluegill fish best related to its age? 
+(Linear/Quadratic nature?)
+
+What is the length of a randomly selected five-year-old bluegill fish? 
+Perform polynomial regression on the dataset.
+
+
+"""
