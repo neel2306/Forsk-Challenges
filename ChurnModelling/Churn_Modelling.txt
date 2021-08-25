@@ -1,0 +1,8 @@
+The customer churn, also known as customer attrition, refers to the phenomenon whereby a customer leaves a service provider.
+
+
+It is advantageous for banks to know what leads a client towards the decision to leave the company.
+
+Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
+
+In this code challenge, we use customer data from a bank to construct a predictive model using deep learning for the likely churn customers.
