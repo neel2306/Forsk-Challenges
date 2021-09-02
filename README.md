@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-Code challenges from my internship at the Forsk School of coding.
+Code challenges from my internship at the Forsk School of coding. The .txt files are the problem statement.
 
 ---
 # Requisites
