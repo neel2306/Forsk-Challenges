@@ -1,0 +1,5 @@
+"""
+Q1. Import Crime.csv File.
+    Perform dimension reduction and group the cities using k-means based on 
+    Rape, Murder and assault predictors.
+"""
