@@ -1,0 +1,20 @@
+"""
+Suppose you are the manager of a bank and you have the problem of 
+discriminating between genuine and counterfeit banknotes. You are measuring 
+several distances on the banknote and the width and height of it.
+
+Measuring these values of about 100 genuine and 100 counterfeit banknotes, 
+Use the data set to set up a logical regression and is capable of 
+discriminating between genuine and counterfeit money classification. 
+(Import banknotes.csv)
+
+(this data set contains data on Swiss francs currency; it has been obtained 
+courtesy of H. Riedwyl )
+
+Check the accuracy of your model using confusion matrix.
+
+Then use k-fold cross validation to find actual mean accuracy of your model.
+
+file_name - "banknotes.py"
+
+"""
